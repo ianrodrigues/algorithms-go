@@ -1,5 +1,6 @@
 package fibonacci
 
+// Fibonnaci returns a number for the given position (n) in the Fibonacci sequence.
 func Fibonacci(n int) int {
 	if n < 2 {
 		return n
