@@ -1,3 +1,3 @@
-module github.com/ianrodrigues/fibonacci-algorithm-go
+module github.com/ianrodrigues/algorithms-go
 
 go 1.13
